@@ -1,0 +1,1 @@
+/home/assis/Repositorios/challenges/LeetCodeChallenges/rust/target/debug/rust: /home/assis/Repositorios/challenges/LeetCodeChallenges/rust/src/main.rs /home/assis/Repositorios/challenges/LeetCodeChallenges/rust/src/sum.rs
